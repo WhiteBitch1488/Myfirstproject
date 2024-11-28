@@ -1,0 +1,28 @@
+html {
+    height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.title {
+    color: rgb(10, 10, 10);
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    margin-top: 50px;
+}
